@@ -1,0 +1,22 @@
+.warna-bg {
+  background: linear-gradient(to right, rgba(255,160,122), rgba(255,160,122));
+  background: url(../img/bg.jpg);
+}
+.barvar-brand2{
+
+}
+
+.tema-bg {
+  background: #fff;
+}
+
+.jumbotron-bg {
+  background-size: cover;
+  background: url(../img/gallery4.png);
+}
+
+.navbar-brand {
+  background: url(../img/brand.png);
+
+
+}
